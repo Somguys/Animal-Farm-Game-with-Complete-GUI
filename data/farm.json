@@ -1,0 +1,9 @@
+{
+    "Farm Size": 10,
+    "Animals": [{
+        "name": "pulled pork",
+        "health": 76,
+        "Alive?": true,
+        "class": "class model.Rooster"
+    }]
+}

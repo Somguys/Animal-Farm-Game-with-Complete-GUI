@@ -1,0 +1,17 @@
+{
+    "Farm Size": 10,
+    "Animals": [
+        {
+            "name": "hungrypig",
+            "health": 100,
+            "Alive?": true,
+            "class": "class model.Hog"
+        },
+        {
+            "name": "skinnyrooster",
+            "health": 100,
+            "Alive?": true,
+            "class": "class model.Rooster"
+        }
+    ]
+}
